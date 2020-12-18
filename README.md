@@ -1,4 +1,4 @@
-# git_tut
+# git_tut (SAMPLE)
 
 A new Flutter project.
 
